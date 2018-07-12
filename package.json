@@ -1,0 +1,15 @@
+{
+  "name": "wilson_js",
+  "version": "1.0.0",
+  "description": "Assistente Virtual para Slack",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Álvaro Basto",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "slackbots": "^1.1.0"
+  }
+}
