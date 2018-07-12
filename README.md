@@ -1,7 +1,7 @@
 # wilson_js
 update do Wilson utilizando node.
 
-# Install dependencies
+# Instalar Dependências
 npm install
 
 # Serve on localhost:3000
